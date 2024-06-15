@@ -1,1 +1,1 @@
-# ploomber-actions
+# Ploomber: GitHub deployment
