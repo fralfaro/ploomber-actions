@@ -1,0 +1,12 @@
+*.csv.gz
+*.parquet
+*.jl
+*.f
+*.pkl
+*__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+/.idea/
+__more__
+.env
+
